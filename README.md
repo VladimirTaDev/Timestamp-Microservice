@@ -12,4 +12,4 @@ My freeCodeCamp.org - Back End Development and APIs Final Project.
 
 [By Vladimir Tarassenko](https://www.freecodecamp.org/vladimir_ta/)
 
-[By freeCodeCamp.org](href="https://www.freecodecamp.org/)
+[By freeCodeCamp.org](https://www.freecodecamp.org/)
