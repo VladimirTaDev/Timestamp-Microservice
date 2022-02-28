@@ -1,7 +1,7 @@
 # [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
 My freeCodeCamp.org - Back End Development and APIs Final Project.
 
-# [Run on replit](https://replit.com/@VladimirTa/Timestamp-Microservice#server.js)
+# [Run on replit](https://replit.com/@VladimirTa/Timestamp-Microservice)
 
 # Example Usage:
 - [project url]/api/2015-12-25
